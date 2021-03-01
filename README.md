@@ -1,5 +1,5 @@
 # Comparing Diabetes Risk Assessment Scores
---Can we create a better predictive system for T2DM risk via machine learning or weighting factors as compared to the classical pen and paper method? 
+--Can we create a better predictive system  for T2DM risk via machine learning or weighting factors as compared to the classical pen and paper method? 
 
 ### Background
   T2DM is a chronic metabolic disease involving resistance to the hormone insulin that afflicts nearly 3.8 million in the UK and is one of the most significant comorbidities for a range of diseases including cardiovascular disease, strokes, and obesity. Although it currently has no cure, several factors including weight are known to prevent or even lead to remission of the disease, implying that if we can identify target patients, there is potential to focus efforts on them. It currently costs the NHS billions to treat, meaning there is a great need for the NHS to treat it prophylactically. 
